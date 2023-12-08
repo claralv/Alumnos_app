@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/anadir"
+        android:title="Añadir alumno" />
+    <item
+        android:id="@+id/update"
+        android:title="Actualizar curso" />
+    <item
+        android:id="@+id/eliminar"
+        android:title="Eliminar alumno" />
+</menu>
